@@ -1,6 +1,6 @@
 - 🔭 I’m currently working at SecurEd Inc.
 - 🌱 I’m currently learning about implementing Terraform modules
 - 👯 I’m looking to collaborate on container open source tooling
-- 💬 Ask me about ... how I started implementing DevSecOps solutions
+- 💬 Ask me about how I started implementing DevSecOps solutions
 - 📫 How to reach me: cwagne17@students.towson.edu
 - ⚡ Fun fact: I've been playing drums since I was 7 and love Jazz!
