@@ -10,5 +10,5 @@ ENV FUN_FACT="Jazz is my favorite genere, I'm a drummer. Check out Snarky Puppy!
 RUN apk add my-email-and-reach-out-to-colaborate
 
 EXPOSE 3000 # I would love exposure to more cloud security opportunities!
-CMD ["This", "is" "ex-shell-ent!"]
+CMD ["Shell-o", "it's", "me!"]
 ```
