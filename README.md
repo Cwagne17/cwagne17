@@ -1,3 +1,10 @@
+<a href="https://certdirectory.io/profile/christopher-wagner?utm_source=github&utm_medium=readme">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/christopher-wagner.svg?style=card&theme=dark">
+    <img alt="Christopher Wagner on CertDirectory" src="https://certdirectory.io/badge/christopher-wagner.svg?style=card">
+  </picture>
+</a>
+
 ```dockerfile
 FROM maryland@harfordco
 
